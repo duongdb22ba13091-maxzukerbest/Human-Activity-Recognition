@@ -1,0 +1,13 @@
+Parameter,Value
+input_features,561
+hidden_layer_1,256
+hidden_layer_2,128
+output_classes,6
+dropout,0.3
+optimizer,Adam
+learning_rate,0.001
+weight_decay,0.0001
+batch_size,64
+epochs,50
+best_validation_loss,0.05198865318525251
+device,cuda
